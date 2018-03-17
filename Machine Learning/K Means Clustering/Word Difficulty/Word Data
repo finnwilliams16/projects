@@ -1,0 +1,352 @@
+walk 
+blue 
+projector 
+go 
+sitting
+sixth
+sled
+smoke
+birthday*
+body
+bones
+born
+everything
+eyes
+face
+family
+
+conscience 
+regression 
+receive
+constitution
+generosity
+economic
+endeavor
+cylinder
+abbreviate
+picturesque
+molecular
+amateur
+unique
+mischievous
+approximate
+descendant
+
+rhythm 
+accommodate 
+playwright 
+auxiliary
+deprivation
+equation
+nausea
+reservoir
+studious
+reputable
+antidote
+chronic
+benediction
+credential
+altercation
+grotesque
+
+[[ 2.68658478]
+ [ 0.94680376]
+ [ 2.68658478]
+ [ 0.94680376]
+ [ 2.49010491]
+ [ 2.76757407]
+ [ 2.36087595]
+ [ 2.36087595]
+ [ 0.95615681]
+ [ 2.2849082 ]
+ [ 0.95730734]
+ [ 1.69002423]
+ [ 1.69002423]
+ [ 2.76463949]
+ [ 2.76757407]
+ [ 2.2849082 ]
+ [ 2.75432424]
+ [ 1.027076  ]
+ [ 0.95447343]
+ [ 2.76953354]
+ [ 2.33296223]
+ [ 2.33296223]
+ [ 0.93399438]
+ [ 2.76757407]
+ [ 2.0819576 ]
+ [ 2.96346223]
+ [ 2.76757407]
+ [ 2.68658478]
+ [ 1.01202803]
+ [ 0.94680376]
+ [ 0.95615681]
+ [ 2.76757407]
+ [ 2.49010491]
+ [ 0.95615681]
+ [ 2.68658478]
+ [ 1.73505284]
+ [ 2.33296223]
+ [ 2.2849082 ]
+ [ 0.94680376]
+ [ 2.2849082 ]
+ [ 2.76953354]
+ [ 2.76757407]
+ [ 0.94680376]
+ [ 0.95730734]
+ [ 1.73505284]
+ [ 2.33296223]
+ [ 2.98286402]
+ [ 2.2849082 ]]
+-------------------------
+[3.0, 1.0, 3.0, 1.0, 2.0, 3.0, 2.0, 2.0, 1.0, 2.0, 1.0, 2.0, 2.0, 3.0, 3.0, 2.0, 3.0, 1.0, 1.0, 3.0, 2.0, 2.0, 1.0, 3.0, 2.0, 3.0, 3.0, 3.0, 1.0, 1.0, 1.0, 3.0, 2.0, 1.0, 3.0, 2.0, 2.0, 2.0, 1.0, 2.0, 3.0, 3.0, 1.0, 1.0, 2.0, 2.0, 3.0, 2.0]
+-------------------------
+[[ -42.42034082 -118.50400065   42.55080747]
+ [  55.32829764   70.07576446  -30.85517482]]
+-------------------------
+[[ 42.21254852 -34.81349529   1.54169439]
+ [-37.3944314   35.21150776 -50.64526465]
+ [-75.88309277  24.9256354    4.29077939]]
+-------------------------
+[[ -4.87444336  31.83554939 -39.66647085]
+ [  1.30981031 -23.80060175   0.66178466]
+ [  3.20479003  24.23282009  -4.71504608]]
+-------------------------
+[[ 3.60669547]
+ [ 2.33380072]
+ [-5.18869831]]
+[ 0.  0.  0.  0.  0.  0. -1.  0.  0.  0.  0. -1.  1.  1.  0.  0.  0.  0.
+  0.  1.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0. -1.  0.  0.  0.
+ -1. -1.  0.  0.  0.  0.  0.  0.  1.  0.  0. -1.]
+
+
+
+
+
+
+
+[2.0, 1.0, 2.0, 1.0, 2.0, 3.0, 2.0, 2.0, 1.0, 2.0, 1.0, 1.0, 1.0, 3.0, 3.0, 2.0, 3.0, 2.0, 1.0, 2.0, 2.0, 2.0, 1.0, 3.0, 3.0, 3.0, 3.0, 2.0, 1.0, 1.0, 1.0, 3.0, 2.0, 1.0, 2.0, 2.0, 2.0, 2.0, 1.0, 2.0, 2.0, 3.0, 1.0, 1.0, 2.0, 2.0, 3.0, 2.0]
+[[-1.  0. -1.  0.  0.  0. -1.  0.  0.  0.  0. -2.  0.  1.  0.  0.  0.  1.
+   0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0. -1.  0. -1.  0.
+  -1. -1.  0.  0. -1.  0.  0.  0.  1.  0.  0. -1.]]
+hgiughghjgjhjh
+[[ 14.37180445  -2.0224466  -19.02023073]
+ [-14.33266098   5.36182004  -5.6697382 ]]
+hgiughghjgjhjh
+[[ -8.3151234  -18.97777334  -9.22086663]
+ [  4.49802043   6.58413341   5.88408942]
+ [ -4.10347823  16.078204    -8.41234209]]
+hgiughghjgjhjh
+[[  4.6094974   -8.05947453  -3.74750696]
+ [ -8.89900928 -21.72055806   3.5189887 ]
+ [  6.1710086   -8.02582667  -5.75927589]]
+hgiughghjgjhjh
+[[ 3.32581695]
+ [ 5.55624509]
+ [-0.78331367]]
+
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+public class Test
+{
+    public static double euclideandis(int x, int y, int a, int b)   // Euclidean Distance Function
+    {
+        return Math.Sqrt(Math.Pow(y-b, 2) + Math.Pow(x-a, 2));
+    }   
+    public static int cluster(string c)    // AI Core - Classifies Words Into Difficulty Categories
+    {
+		int[] centroid1 = new int[] {4, 1};
+		int[] centroid2 = new int[] {2, 1};
+		int[] centroid3 = new int[] {9, 3};
+		
+		int num1 = 1;
+		int num2 = 2;
+		int num3 = 3;
+		
+		int lenvar = c.Length;
+		string cstorage = c;
+		
+		int vowelvar = 0;
+		foreach (char e in cstorage){
+      		char d = e;
+      		if (d.ToString() == "a") vowelvar++;
+      		if (d.ToString() == "e") vowelvar++;
+      		if (d.ToString() == "i") vowelvar++;
+      		if (d.ToString() == "o") vowelvar++;
+      		if (d.ToString() == "u") vowelvar++;
+		}
+		
+		int[] datapoint = new int[] {lenvar, vowelvar};
+		
+		double temp1 = euclideandis(centroid1[0], centroid1[1], datapoint[0], datapoint[1]);
+		double temp2 = euclideandis(centroid2[0], centroid2[1], datapoint[0], datapoint[1]);
+		double temp3 = euclideandis(centroid3[0], centroid3[1], datapoint[0], datapoint[1]);
+		
+		if (temp1 < temp2){
+			if(temp1 < temp3){
+				return num1;
+			}
+			else {
+				return num1;
+			}
+		}
+		else if (temp2 < temp1){
+			if(temp2 < temp3){
+				return num2;
+			}
+			else {
+				return num2;
+			}
+		}
+		else {
+			return num3;
+		}
+    }
+    
+    public static void Main()
+    {
+		
+		int lives = 10;
+		string wordtoguess = "";
+		
+    List<string> words1 = new List<string>(); 
+		List<string> words2 = new List<string>(); 
+		List<string> words3 = new List<string>(); 
+		
+		words1.Add("family");
+		words1.Add("face");
+		words1.Add("bones");
+		words1.Add("born");
+		words2.Add("descendant");
+		words2.Add("endeavor");
+		words2.Add("constitution");
+		words2.Add("abbreviate");
+		words3.Add("playwright");
+		words3.Add("grotesque");
+		words3.Add("benediction");
+		words3.Add("reservoir");
+        
+        Console.WriteLine("Welcome to Finn's Hangman!");
+        Console.WriteLine("Before we begin, would you like to add any words into the game? (y/n)");
+        string quest1 = Console.ReadLine();
+        
+        
+        if (quest1 == "y")
+        {
+		  int busy = 1;
+			while (busy == 1){
+				Console.WriteLine("Type a word and press enter. To stop, type 'esc' and press enter");
+		  		string wordtoadd = Console.ReadLine();
+          		if (wordtoadd == "esc")
+          		{
+				  busy = 0;
+          		  Console.WriteLine("Okay then, we shall continue");
+          		}
+          		else
+          		{
+          		  int holder = cluster(wordtoadd);
+				  if (holder == 1){
+					  words1.Add(wordtoadd);
+				  }
+			      else if (holder == 2){
+					  words2.Add(wordtoadd);
+				  }
+				  else {
+					  words3.Add(wordtoadd);
+				  }
+          		}
+			}
+        }
+        else
+        {
+          Console.WriteLine("Okay then, we shall continue");
+        }
+        
+
+        Console.WriteLine("Choose your difficulty level (1, 2, 3):");
+        string difficultyLevel = Console.ReadLine();
+      
+        while (difficultyLevel != "1" && difficultyLevel != "2" && difficultyLevel != "3")
+        {
+          Console.WriteLine("Choose your difficulty level (1, 2, 3):");
+          difficultyLevel = Console.ReadLine();
+        }
+		
+		Random rnd = new Random();
+		
+		if(difficultyLevel == "1"){
+			wordtoguess = words1[rnd.Next(words1.Count)];
+			Console.Write("Your word is ");
+			int container = wordtoguess.Length;
+			Console.Write(container);
+			Console.Write(" letters long!");
+		}
+		else if(difficultyLevel == "2"){
+			wordtoguess = words2[rnd.Next(words2.Count)];
+			Console.Write("Your word is ");
+			int container = wordtoguess.Length;
+			Console.Write(container);
+			Console.Write(" letters long!");
+		}
+		else{
+			wordtoguess = words3[rnd.Next(words3.Count)];
+			Console.Write("Your word is ");
+			int container = wordtoguess.Length;
+			Console.WriteLine(container);
+			Console.WriteLine(" letters long!");
+		}
+		
+		
+		List<string> wordsofar = new List<string>(); 
+		foreach(char w in wordtoguess){
+			wordsofar.Add("_");
+		}
+
+		while(lives > 0){
+			Console.WriteLine(" Type in a letter and press enter:");
+			string input = Console.ReadLine().ToLower();
+        	char guess = input[0];
+			Console.WriteLine(guess);
+		
+
+			if(wordtoguess.Contains(guess)){
+			  for (int i = 0; i < wordtoguess.Length; i++) {
+				    if(guess == wordtoguess[i]){
+					    wordsofar[i] = guess.ToString();
+					    string disp = String.Join(String.Empty, wordsofar.ToArray());
+			        Console.WriteLine(disp);
+			        if (wordsofar.Contains("_")){
+			          continue;
+			        }
+			        else{
+			          Console.WriteLine("Well done you win!");
+			          Environment.Exit(-1);
+			        }
+				    }
+
+			  }
+			}
+			else{
+			  lives = lives - 1;
+			  Console.WriteLine("Incorrect. - 1 life. Lives:");
+			  Console.WriteLine(lives);
+			  if(lives == 0){
+			    Console.WriteLine("You lose! The word was:");
+			    Console.WriteLine(wordtoguess);
+			    Environment.Exit(-1);
+			  }
+			}
+			}
+		
+		}
+		
+	}
+  
+//string disp = String.Join(String.Empty, wordsofar.ToArray());
+//Console.WriteLine(disp);holder
